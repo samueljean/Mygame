@@ -2,6 +2,6 @@
 $(document).ready(function(){
      event.preventDefault();
      $("#display"){
-         
+         console
      }
 });
